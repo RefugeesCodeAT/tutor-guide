@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Activity Types](chapter1.md)
+* [Activity Types](activity-types.md)
 * [Tools & Templates](tools-and-templates.md)
 * [Competences](competences.md)
 * [Challenges](challenges.md)
