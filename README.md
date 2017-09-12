@@ -1,6 +1,6 @@
 # Refugees Code Tutor Guide
 
-Welcome, this is the refugees{code} tutor manual. The fact that you’re reading this means that we have been succesful with our open attitude, have overcome challenges, recognised and taken opportunities, and learned how to act consistently. 
+Welcome, this is the refugees{code} tutor manual. The fact that you’re reading this means that we have been succesful with our open attitude, have overcome challenges, recognised and taken opportunities, and learned how to act consistently.
 
 Being a tutor is a chance and a challenge. It’s a chance to grow, to learn, to strengthen your own knowledge, to help others grow, to understand what others need, to communicate effectively, and be empathetic: these are skills that help you succeed in the 21st century. And this is a wonderful environment to learn them in. Do good and learn from it.
 
@@ -12,9 +12,7 @@ Teaching requires authenticity, patience, and empathy. Authenticity means being 
 
 ## Let's get going
 
-
-
-
+You can read up on the different chapters and learn how we work and collaborate. We believe in agile course creation so the points mentioned are subject to change. If you think something can be designed better, feel free to create a pull request on www.github.com/RefugeesCodeAT/tutor-guide
 
 
 
