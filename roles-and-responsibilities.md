@@ -18,9 +18,11 @@ Provide Coaching:
 
 Contract - I'm available for X hours per week.
 
-Tutor Schooling
+Tutor Schooling - Giving feedback 
 
 Certificate for helping out.
 
 Do Projects on the side -&gt; Build a portfolio.
+
+Go through problemsets together, correct 
 
