@@ -8,3 +8,7 @@ Grading.
 
 Certificates
 
+cs50.me
+
+cs50.io
+
