@@ -1,12 +1,16 @@
 ### moodle.refugeescode.at
 
-### challenges.refugeescode.at
+### Schedule and calendar
 
 ### Chatbot and Email List
 
 ### p2.refugeescode.at
 
-Course Database, easy and quick way to generate a URL
+Course Database, easy and quick way to generate a URL.
+
+Also possible to launch challenges before they reach the official phase. 
+
+Companies can also have an account and post challenges or job-offers here?
 
 ### Slack Channel
 
@@ -16,7 +20,7 @@ cs50.me cs50.io github moodle
 
 ### Print Templates
 
-Evaluation Form, 
+Evaluation Form,
 
 Attendance Form,
 
@@ -26,5 +30,5 @@ Challenges Form
 
 360° Feedback Agenda
 
-
+Session Planner
 
