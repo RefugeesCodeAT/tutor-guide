@@ -23,5 +23,19 @@ Tutors should be the same, or at least one person should be responsible and orga
 
 One-time lectures without a week-structure and structured purpose are events.
 
-To initiate a session, speak with the trainer who is responsible for the intake. Create a rough week-structure, where it is fine to fill in events later, or even invite participants to take over a part. The trainer will ask you to create a post on P2, and update the weekly schedule with your event. Also
+To initiate a session, speak with the trainer who is responsible for the intake. Create a rough week-structure, where it is fine to fill in events later, or even invite participants to take over a part. The trainer will ask you to create a post on P2, and update the weekly schedule with your event. 
+
+#### Coaching & Review
+
+The coaching session at the beginning of the week, and the 360° review at the end of the week are there to work with our participants' motivation. 
+
+##### Coaching
+
+TODO: Coaching
+
+Template - Where have you been present last week?
+
+##### 360° Review
+
+
 
