@@ -12,7 +12,5 @@ Teaching requires authenticity, patience, and empathy. Authenticity means being 
 
 ## Let's get going
 
-You can read up on the different chapters and learn how we work and collaborate. We believe in agile course creation so the points mentioned are subject to change. If you think something can be designed better, feel free to create a pull request on www.github.com/RefugeesCodeAT/tutor-guide
-
-
+You can read up on the different chapters and learn how we work and collaborate. We believe in agile course creation so the points mentioned are subject to change. If you think something can be designed better, feel free to create a pull request on its [GitHub](/www.github.com/RefugeesCodeAT/tutor-guide) repository.
 

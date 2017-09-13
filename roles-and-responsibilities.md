@@ -10,7 +10,12 @@ Encourage Activity on Moodle
 
 Prepare / search for extra exercises.
 
-Sessions:
+Sessions: Creating a new session
+
+* [ ] Ask to write P2 Description, according to Why, How, What model. \(create account if necessary\)
+* [ ] Ask for rough weekly schedule, according to session prep guidelines
+* [ ] Make sure participants are invited \(Chatbot and Mail\)
+* [ ] Update Schedule and Calendar
 
 Provide Coaching:
 
