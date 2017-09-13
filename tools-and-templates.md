@@ -50,10 +50,6 @@ The best way to understand it is by [checking it out](#p2refugeescodeat).
 
 ### Slack Channel
 
-### CS50 Resources
-
-cs50.me cs50.io github moodle
-
 ### Print Templates
 
 Evaluation Form,
@@ -61,10 +57,21 @@ Evaluation Form,
 Attendance Form,
 
 Coaching / Mentoring Sheet
+* Sample Agenda
+* Feedback about the past week, which sessions did they enjoy?
+* Medium Term Goal.
+* Weekly targets. Hours. Outputs.
+* Extra Courses Interested in. 
+* Personal development goals.
+
 
 Challenges Form
 
 360° Feedback Agenda
 
 Session Planner
+
+Progress Tracking Form
+
+Participant Background Form
 
