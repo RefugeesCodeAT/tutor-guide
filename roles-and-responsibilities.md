@@ -2,7 +2,7 @@ End-of-Week.
 
 #### Trainer:
 
-Monday-morning [coachings](../activity-types.md#coaching), individual or in small groups. Fill out a week plan. Review last week's week plan
+Monday-morning [coachings](#coaching), individual or in small groups. Fill out a week plan. Review last week's week plan
 
 End of week review - 360° reviews. Stand in circle and recap the work that has been done. 
 
@@ -15,7 +15,9 @@ Co-hosting the coding café with ex participants.
 
 Keeping a needs-offers fit.
 
-Encourage Activity on Moodle
+Encourage Activity on Moodle.
+
+Improve the readibility of content on Moodle. 
 
 Prepare / search for extra exercises/challenges. 
 
