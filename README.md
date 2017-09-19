@@ -1,10 +1,10 @@
 # Refugees Code Tutor Guide
 
-Welcome, this is the refugees{code} tutor manual. The fact that you’re reading this means that we have been succesful with our open attitude, have overcome challenges, recognised and taken opportunities, and learned how to act consistently.
+Welcome, this is the refugees{code} tutor manual. This may be the first time you're in a tutor role, or you already have some experience tutoring others. Maybe you helped someone learn for an exam in school. This document should prepare you for your new role, and understand the system of learning we have designed.  
 
 Being a tutor is a chance and a challenge. It’s a chance to grow, to learn, to strengthen your own knowledge, to help others grow, to understand what others need, to communicate effectively, and be empathetic: these are skills that help you succeed in the 21st century. And this is a wonderful environment to learn them in. Do good and learn from it.
 
-It is also a challenge, because of three reasons. Firstly, coding is difficult. Secondly, teaching it means explaining it in an simple way. And thirdly, this requires you to understand the content very well and also understand where the learner is at.
+It is also a challenge, because of three reasons. Firstly, coding is difficult. Secondly, teaching it means explaining it in an simple way. And thirdly, this requires you to understand the content well and also understand where the learner is at.
 
 ## Values for teaching
 

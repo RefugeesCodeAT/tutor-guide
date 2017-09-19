@@ -2,13 +2,24 @@ End-of-Week.
 
 #### Trainer:
 
-Keep Sessions Updated.
+Monday-morning coachings[coachings](../activity-types.md##### Coaching), individual or in small groups. Fill out a week plan. Review last week's week plan
+
+End of week review - 360° reviews. Stand in circle and recap the work that has been done. 
+
+Sessions - organize and support the different sessions to be held. 
+* CS50 related sessions 
+* real-life of a programmer related sessions
+* ExtraKurse
+
+Co-hosting the coding café with ex participants.
 
 Keeping a needs-offers fit.
 
 Encourage Activity on Moodle
 
-Prepare / search for extra exercises.
+Prepare / search for extra exercises/challenges. 
+
+Tracking of progress: end-responsible of knowing who is how far. 
 
 Sessions: Creating a new session
 
@@ -17,7 +28,7 @@ Sessions: Creating a new session
 * [ ] Make sure participants are invited \(Chatbot and Mail\)
 * [ ] Update Schedule and Calendar
 
-Provide Coaching:
+
 
 #### Tutors:
 
@@ -31,3 +42,10 @@ Do Projects on the side -&gt; Build a portfolio.
 
 Go through problemsets together, correct 
 
+Hackathon
+
+Extra Roles (Printed Doc Bringer). 
+
+### Competences for Tutors:
+
+Moderation
