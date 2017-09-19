@@ -29,7 +29,7 @@ To initiate a session, speak with the trainer who is responsible for the intake.
 
 The coaching session at the beginning of the week, and the 360° review at the end of the week are there to work with our participants' motivation. 
 
-##### Coaching
+##### Coaching {# #coaching}
 
 Coachings are there to keep the (personal) goals in sight, it's a chance to connect to individual goals, needs, and expectations. Also, it helps understand the participants and give them the feeling of appreciation for their being, another important factor in the learning process.
 

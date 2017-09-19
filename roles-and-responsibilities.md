@@ -2,7 +2,7 @@ End-of-Week.
 
 #### Trainer:
 
-Monday-morning coachings[coachings](../activity-types.md##### Coaching), individual or in small groups. Fill out a week plan. Review last week's week plan
+Monday-morning [coachings](../activity-types.md#coaching), individual or in small groups. Fill out a week plan. Review last week's week plan
 
 End of week review - 360° reviews. Stand in circle and recap the work that has been done. 
 
