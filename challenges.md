@@ -7,5 +7,6 @@ Challenges are there to challenge participants to do something new, additional t
 * **Do some exercises.** There are many sites that provide opportunities to practice, which can be found under the Resources chapter. CS50 itself provides some on Github. 
 
 Challenges can be posted on the Moodle Forum, and rewarded with points and badges there. 
+The learner gets access to a repository to work and upload code from, through a link from classroom.github.com. Here the tutor describes the task, and can create a code base to start from. 
 
-Also, they must be linked to the github classroom, finding a way to include collaboration and correction. But that's hard to decide before. 
+Important for challenges is, that they are an examplary case that puts several desired competences into a format the learner can refer to. For example, the CS50 pset3 gives music and the happy birthday song as a framework. Its completion combines a set competences: reading a data file, linking different files with code, outputting a new datatype (audio), and using pre-made functions. 
